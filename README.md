@@ -159,7 +159,7 @@ python evaluation/llm_judge3.py --num-jobs 4 --job-id 1
 
 For questions or inquiries, please contact:
 
-- **Ramakrishna Pinninti**: <ramakrishna.pinninti@adaptcentre.ie>
+- **Ramakrishna Pinninti**: <ramakrishna176420@gmail.com>
 
 ---
 
