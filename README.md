@@ -1,6 +1,5 @@
 # Corrective Feedback-Driven Humor Generation for Tiny Language Models
 
-**Paper Accepted to AACL-IJCNLP 2026** (Asia-Pacific Chapter of the Association for Computational Linguistics & International Joint Conference on Natural Language Processing)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/) [![Transformers](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow)](https://huggingface.co/docs/transformers)
 
