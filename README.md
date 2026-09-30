@@ -162,18 +162,7 @@ For questions or inquiries, please contact:
 
 ---
 
-## Citation
 
-If you find this code useful, please cite:
-
-```bibtex
-@inproceedings{pinninti2026corrective,
-    title     = {Corrective Feedback-Driven Humor Generation for Tiny Language Models},
-    author    = {Pinninti, Ramakrishna and others},
-    booktitle = {Proceedings of the Asia-Pacific Chapter of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (AACL-IJCNLP)},
-    year      = {2026},
-    publisher = {Association for Computational Linguistics}
-}
 ```
 
 ## 🤝 Contributing
