@@ -139,11 +139,7 @@ evaluation/train_bert_classifier-filtered.ipynb
 evaluation/get_humor_accuracy_diff_seeds.ipynb
 ```
 
-**Fluency (perplexity):**
 
-```bash
-python evaluation/calculate_perplexity.py
-```
 
 **Pairwise LLM-as-judge** (requires an OpenAI API key; supports sharding across jobs):
 
